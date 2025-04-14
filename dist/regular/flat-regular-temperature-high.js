@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.FlatRegularTemperatureHigh = void 0;
+var fi_rr_temperature_high_svg_1 = require("../../svg/regular/fi-rr-temperature-high.svg");
+exports.FlatRegularTemperatureHigh = fi_rr_temperature_high_svg_1.default;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXRlbXBlcmF0dXJlLWhpZ2guanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvcmVndWxhci9mbGF0LXJlZ3VsYXItdGVtcGVyYXR1cmUtaGlnaC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7QUFBQSwyRkFBc0Y7QUFFOUUscUNBRkQsb0NBQTBCLENBRUMifQ==

@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.FlatBrandCreativeCommonsSamplingPlus = void 0;
+var fi_brands_creative_commons_sampling_plus_svg_1 = require("../../svg/brand/fi-brands-creative-commons-sampling-plus.svg");
+exports.FlatBrandCreativeCommonsSamplingPlus = fi_brands_creative_commons_sampling_plus_svg_1.default;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1jcmVhdGl2ZS1jb21tb25zLXNhbXBsaW5nLXBsdXMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvYnJhbmQvZmxhdC1icmFuZC1jcmVhdGl2ZS1jb21tb25zLXNhbXBsaW5nLXBsdXMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7O0FBQUEsNkhBQWdIO0FBRXhHLCtDQUZELHNEQUFvQyxDQUVDIn0=

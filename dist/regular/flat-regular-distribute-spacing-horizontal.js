@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.FlatRegularDistributeSpacingHorizontal = void 0;
+var fi_rr_distribute_spacing_horizontal_svg_1 = require("../../svg/regular/fi-rr-distribute-spacing-horizontal.svg");
+exports.FlatRegularDistributeSpacingHorizontal = fi_rr_distribute_spacing_horizontal_svg_1.default;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWRpc3RyaWJ1dGUtc3BhY2luZy1ob3Jpem9udGFsLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vc3JjL3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWRpc3RyaWJ1dGUtc3BhY2luZy1ob3Jpem9udGFsLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7OztBQUFBLHFIQUErRztBQUV2RyxpREFGRCxpREFBc0MsQ0FFQyJ9

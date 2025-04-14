@@ -1,0 +1,16 @@
+{
+  "name": "web-asset",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "export": "sh ./script/build.sh",
+    "tag": "sh ./script/tag.sh $(jq \".version\" package.json | tr -d '\"')"
+  },
+  "devDependencies": {
+    "@types/node": "22.14.1",
+    "prettier": "3.5.3",
+    "tsc-alias": "1.8.15",
+    "typescript": "5.8.3"
+  }
+}

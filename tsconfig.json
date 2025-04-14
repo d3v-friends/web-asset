@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "noEmit": false,
+    "removeComments": true,
+    "declaration": true,
+    "inlineSourceMap": true,
+    "outDir": "./dist"
+  },
+  "include": [
+    "./src"
+  ],
+  "exclude": [
+    "node_modules",
+    "./app",
+    "./asset"
+  ],
+  "tsc-alias": {
+    "verbose": true
+  }
+}
