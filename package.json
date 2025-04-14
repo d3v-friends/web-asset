@@ -1,8 +1,7 @@
 {
   "name": "web-asset",
-  "version": "0.0.1",
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "version": "0.0.2",
+  "main": "./src/index.ts",
   "scripts": {
     "export": "sh ./script/build.sh",
     "tag": "sh ./script/tag.sh $(jq \".version\" package.json | tr -d '\"')"
