@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.FlatRegularBellNotificationSocialMedia = void 0;
+var fi_rr_bell_notification_social_media_svg_1 = require("../../svg/regular/fi-rr-bell-notification-social-media.svg");
+exports.FlatRegularBellNotificationSocialMedia = fi_rr_bell_notification_social_media_svg_1.default;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWJlbGwtbm90aWZpY2F0aW9uLXNvY2lhbC1tZWRpYS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9yZWd1bGFyL2ZsYXQtcmVndWxhci1iZWxsLW5vdGlmaWNhdGlvbi1zb2NpYWwtbWVkaWEudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7O0FBQUEsdUhBQWdIO0FBRXhHLGlEQUZELGtEQUFzQyxDQUVDIn0=

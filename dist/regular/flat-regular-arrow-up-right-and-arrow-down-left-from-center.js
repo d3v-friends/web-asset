@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.FlatRegularArrowUpRightAndArrowDownLeftFromCenter = void 0;
+var fi_rr_arrow_up_right_and_arrow_down_left_from_center_svg_1 = require("../../svg/regular/fi-rr-arrow-up-right-and-arrow-down-left-from-center.svg");
+exports.FlatRegularArrowUpRightAndArrowDownLeftFromCenter = fi_rr_arrow_up_right_and_arrow_down_left_from_center_svg_1.default;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWFycm93LXVwLXJpZ2h0LWFuZC1hcnJvdy1kb3duLWxlZnQtZnJvbS1jZW50ZXIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvcmVndWxhci9mbGF0LXJlZ3VsYXItYXJyb3ctdXAtcmlnaHQtYW5kLWFycm93LWRvd24tbGVmdC1mcm9tLWNlbnRlci50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7QUFBQSx1SkFBMkk7QUFFbkksNERBRkQsa0VBQWlELENBRUMifQ==

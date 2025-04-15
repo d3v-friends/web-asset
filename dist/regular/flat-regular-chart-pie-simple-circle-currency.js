@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.FlatRegularChartPieSimpleCircleCurrency = void 0;
+var fi_rr_chart_pie_simple_circle_currency_svg_1 = require("../../svg/regular/fi-rr-chart-pie-simple-circle-currency.svg");
+exports.FlatRegularChartPieSimpleCircleCurrency = fi_rr_chart_pie_simple_circle_currency_svg_1.default;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLWNoYXJ0LXBpZS1zaW1wbGUtY2lyY2xlLWN1cnJlbmN5LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vc3JjL3JlZ3VsYXIvZmxhdC1yZWd1bGFyLWNoYXJ0LXBpZS1zaW1wbGUtY2lyY2xlLWN1cnJlbmN5LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7OztBQUFBLDJIQUFtSDtBQUUzRyxrREFGRCxvREFBdUMsQ0FFQyJ9

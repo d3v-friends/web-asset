@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.FlatBrandMedium = void 0;
+var fi_brands_medium_svg_1 = require("../../svg/brand/fi-brands-medium.svg");
+exports.FlatBrandMedium = fi_brands_medium_svg_1.default;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1icmFuZC1tZWRpdW0uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvYnJhbmQvZmxhdC1icmFuZC1tZWRpdW0udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7O0FBQUEsNkVBQW1FO0FBRTNELDBCQUZELDhCQUFlLENBRUMifQ==

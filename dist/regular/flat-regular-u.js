@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.FlatRegularU = void 0;
+var fi_rr_u_svg_1 = require("../../svg/regular/fi-rr-u.svg");
+exports.FlatRegularU = fi_rr_u_svg_1.default;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZmxhdC1yZWd1bGFyLXUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvcmVndWxhci9mbGF0LXJlZ3VsYXItdS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7QUFBQSw2REFBeUQ7QUFFakQsdUJBRkQscUJBQVksQ0FFQyJ9
