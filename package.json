@@ -1,10 +1,6 @@
 {
   "name": "web-asset",
-  "version": "0.0.4",
-  "scripts": {
-    "export": "sh ./script/build.sh",
-    "tag": "sh ./script/tag.sh $(jq \".version\" package.json | tr -d '\"')"
-  },
+  "version": "0.0.5",
   "devDependencies": {
     "@types/node": "22.14.1",
     "prettier": "3.5.3",

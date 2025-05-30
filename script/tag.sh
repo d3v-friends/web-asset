@@ -1,4 +1,7 @@
 #!/bin/zsh
+set -e;
+echo "$1";
+exit 1;
 
 BASE_TAG=$1
 TAG="$BASE_TAG"
